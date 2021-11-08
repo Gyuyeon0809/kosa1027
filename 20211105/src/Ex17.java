@@ -1,5 +1,5 @@
 
-public class EX17 {
+public class Ex17 {
 
 	public static void main(String[] args) {
 		// 1 ~ 100까지의 합을 구하는 데 짝수만 더하시오.
